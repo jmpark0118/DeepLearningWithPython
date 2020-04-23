@@ -1,6 +1,6 @@
 ## Deep Learning with Python
 
-<image src='book_image.png' width='300'>
+<image src='image/book_image.png' width='300'>
 
 **PART1 : THE FUNDAMENTALS OF DEEP LEARNING**
   1. WHAT IS DEEP LEARNING?
