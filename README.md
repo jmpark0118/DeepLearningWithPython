@@ -13,6 +13,10 @@
 **PART2 : DEEP LEARNING IN PRACTICE**
 
   5. DEEP LEARNING FOR COMPUTER VISION
+      + 5.1 Introduction to convnets
+      + 5.2 Training a convnet from scratch on a small dataset
+      + 5.3 Using a pretrained convnet
+      + 5.4 Visualizing what convnets learn
   6. DEEP LEARNING FOR TEXT AND SEQUENCES
   7. ADVANCED DEEP LEARNING BEST PRACTICES
   8. GENERATIVE DEEP LEARNING
