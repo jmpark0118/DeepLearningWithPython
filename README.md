@@ -7,7 +7,7 @@
       + 1.1 Artificial intelligence, machine learning, and deep learning
       + 1.2 Before deep learning: a brief history of machine learning
       + 1.3 Why deep learning? Why now?
-  [2. BEFORE WE START: THE MATHEMATICAL BLOCKS OF NEURAL NETWORKS](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART1_2_Before%20we%20begin.ipynb)
+  2. [BEFORE WE START: THE MATHEMATICAL BLOCKS OF NEURAL NETWORKS](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART1_2_Before%20we%20begin.ipynb)
       + 2.1 A first look at a neural network
       + 2.2 Data representations for neural networks
       + 2.3 The gears of neural networks: tensor operations
