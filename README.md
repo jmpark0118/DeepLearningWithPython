@@ -13,7 +13,7 @@
 **PART2 : DEEP LEARNING IN PRACTICE**
 
   5. DEEP LEARNING FOR COMPUTER VISION
-      + 5.1 Introduction to convnets
+      + [5.1 Introduction to convnets](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_5.1_introduction%20to%20convnets.ipynb)
       + 5.2 Training a convnet from scratch on a small dataset
       + 5.3 Using a pretrained convnet
       + 5.4 Visualizing what convnets learn
