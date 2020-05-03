@@ -45,6 +45,6 @@
   7. ADVANCED DEEP LEARNING BEST PRACTICES
       + [7.1 Going beyond the Sequenctial model: the Keras functional API](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_7.1_Going%20beyond%20the%20Sequential%20model_the%20Keras%20functional%20API.ipynb)
       + [7.2 Inspecting and monitoring deep-learning models using Keras callbacks and TensorBoard](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_7.2_Inspecting%20and%20monitoring%20deep-learning%20models.ipynb)
-      + 7.3 Getting the most out of your models
+      + [7.3 Getting the most out of your models](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_7.3_Getting%20the%20most%20out%20of%20your%20models.ipynb)
   8. GENERATIVE DEEP LEARNING
   9. CONCLUSIONS
