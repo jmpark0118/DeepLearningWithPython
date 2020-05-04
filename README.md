@@ -47,4 +47,5 @@
       + [7.2 Inspecting and monitoring deep-learning models using Keras callbacks and TensorBoard](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_7.2_Inspecting%20and%20monitoring%20deep-learning%20models.ipynb)
       + [7.3 Getting the most out of your models](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_7.3_Getting%20the%20most%20out%20of%20your%20models.ipynb)
   8. GENERATIVE DEEP LEARNING
+    + [8.1 Generative deep learning](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_8.1_Generative%20deep%20learning.ipynb)
   9. CONCLUSIONS
