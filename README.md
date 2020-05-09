@@ -51,4 +51,5 @@
       + [8.2 DeepDream](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_8.2_DeepDream.ipynb)
       + [8.3 Neural style transfer](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_8.3_Neural%20style%20transfer.ipynb)
       + [8.4 Generating images with variational autoencoders](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_8.4_Generating%20images%20with%20variational%20autoencoders.ipynb)
+      + [8.5 Introduction to generative adversarial networks](https://github.com/jmpark0118/DeepLearningWithPython/blob/master/PART2_8.5_Introduction%20to%20generative%20adversarial%20networks.ipynb)
   9. CONCLUSIONS
